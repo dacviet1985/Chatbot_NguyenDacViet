@@ -1,0 +1,5 @@
+Hướng dẫn làm việc hybrid:
+- Nhân viên được phép làm việc từ xa tối đa 2 ngày mỗi tuần nếu có phê duyệt của quản lý trực tiếp.
+- Các buổi họp nhóm bắt buộc diễn ra vào thứ Ba và thứ Năm tại văn phòng.
+- Mỗi nhân viên mới phải hoàn thành khóa đào tạo an toàn thông tin trong 7 ngày đầu tiên.
+- Khi cần hỗ trợ thiết bị làm việc từ xa, nhân viên gửi yêu cầu qua email it-support@company.local.

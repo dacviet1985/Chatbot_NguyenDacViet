@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "question": "Chính sách nghỉ phép năm là gì?",
+    "expected_answer": "Nhân viên chính thức có 12 ngày nghỉ phép năm hưởng lương.",
+    "expected_sources": ["sample_01.pdf"]
+  },
+  {
+    "id": 2,
+    "question": "Nhân viên thử việc có được nghỉ phép không?",
+    "expected_answer": "Nhân viên thử việc chưa có ngày nghỉ phép năm nhưng có thể xin nghỉ không lương khi được quản lý phê duyệt.",
+    "expected_sources": ["sample_01.pdf"]
+  },
+  {
+    "id": 3,
+    "question": "Nhân viên phải gửi đơn nghỉ phép trước bao lâu?",
+    "expected_answer": "Nhân viên cần gửi đơn nghỉ phép trên hệ thống HR trước ít nhất 3 ngày làm việc.",
+    "expected_sources": ["sample_01.pdf"]
+  },
+  {
+    "id": 4,
+    "question": "Sau giờ làm việc có cần tắt máy tính xách tay không?",
+    "expected_answer": "Nhân viên phải tắt máy tính xách tay và khóa ngăn kéo trước khi rời văn phòng.",
+    "expected_sources": ["sample_02.pdf"]
+  },
+  {
+    "id": 5,
+    "question": "Thời gian báo sự cố thiết bị là bao lâu?",
+    "expected_answer": "Sự cố thiết bị phải được báo cho bộ phận IT trong vòng 30 phút kể từ khi phát hiện.",
+    "expected_sources": ["sample_02.pdf"]
+  },
+  {
+    "id": 6,
+    "question": "Nhân viên được làm việc từ xa tối đa mấy ngày mỗi tuần?",
+    "expected_answer": "Nhân viên được làm việc từ xa tối đa 2 ngày mỗi tuần nếu có phê duyệt.",
+    "expected_sources": ["sample_03.txt"]
+  },
+  {
+    "id": 7,
+    "question": "Những ngày nào bắt buộc họp nhóm tại văn phòng?",
+    "expected_answer": "Các buổi họp nhóm bắt buộc diễn ra vào thứ Ba và thứ Năm tại văn phòng.",
+    "expected_sources": ["sample_03.txt"]
+  },
+  {
+    "id": 8,
+    "question": "Nhân viên mới phải hoàn thành đào tạo an toàn thông tin trong bao lâu?",
+    "expected_answer": "Nhân viên mới phải hoàn thành khóa đào tạo an toàn thông tin trong 7 ngày đầu tiên.",
+    "expected_sources": ["sample_03.txt"]
+  },
+  {
+    "id": 9,
+    "question": "Email hỗ trợ thiết bị làm việc từ xa là gì?",
+    "expected_answer": "Email hỗ trợ là it-support@company.local.",
+    "expected_sources": ["sample_03.txt"]
+  },
+  {
+    "id": 10,
+    "question": "184 * 12 * 5",
+    "expected_answer": "Kết quả từ calculator: 11040",
+    "expected_sources": []
+  },
+  {
+    "id": 11,
+    "question": "Công ty có hỗ trợ bảo hiểm cho thú cưng không?",
+    "expected_answer": "Xin lỗi, tôi không tìm thấy thông tin phù hợp trong tài liệu được cung cấp.",
+    "expected_sources": []
+  },
+  {
+    "id": 12,
+    "question": "Nếu quên tắt máy tính thì xử lý thế nào?",
+    "expected_answer": "Nhân viên phải báo cho IT hoặc bảo vệ trực ca để hỗ trợ xử lý thiết bị sau giờ làm việc.",
+    "expected_sources": ["sample_02.pdf"]
+  }
+]
